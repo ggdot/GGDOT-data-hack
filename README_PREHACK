@@ -1,0 +1,57 @@
+
+To participate in the hacking, you will need:
+* a laptop able to connect to the internet (ideally eduroam - so you can connect to the internet straight away)
+* ideally your power cable and any dongles to connect to a projector for the presentations
+* a Python 3 installation
+* a Jupyter installation
+* the python modules: SciKit-Learn, NumPy, Pandas and Matplotlib
+
+You may also want to:
+Play around with jupyter python notebooks
+Read about hacknights in general, if you haven’t been to one before https://hackathon.guide/ 
+
+---- 
+
+To run the GGDOT code you will also need to register with NDNS and download the NDNS data
+
+Go to:
+https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=6533 
+
+Register with the UK Data Service, if you haven’t already, and log in (and go back to the above link if it then takes you to a new page).
+
+Click on the “Access” tab and then click on the “Add to account” button
+
+The go to
+https://beta.ukdataservice.ac.uk/myaccount/data/projects/
+and click on the “Create a new project” button
+
+Fill in the form e.g.:
+“Title”: Greenhouse Gas and Dietary choices Open source Toolkit
+“Project type”: Non-commercial
+“Abstract”: We are running hacknights to develop tools for estimating the contribution of food to greenhouse gas emissions, as part of the Greenhouse Gas and Dietary choices Open source Toolkit (GGDOT) project funded by N8 Agrifood. We are developing a set of tools for people to play with which shows a breakdown of emissions and nutrition for a set of foods you specify e.g. what you ate yesterday, or your favourite recipe, or the average UK diet.
+Then click on the “Create Project” button
+
+Then go to the page
+https://beta.ukdataservice.ac.uk/myaccount/data/
+and put a tick in the box next to ``National Diet and Nutrition Survey Years 1-8, 2008/09-2015/16''
+Click the “Add to project” button
+Check the “Add to an existing project'' box
+Select the GGDOT project from the pull-down menu (you might have to wait a few moments)
+Click the “Add to project” box
+It should now have a tick box next to ``National Diet and Nutrition Survey Years 1-8, 2008/09-2015/16''
+Check the box and click on the “Download selected” button
+Check the box next to the “TAB” option and click “Download selected”
+
+You should then be downloading a 270MB file
+
+(You can take a look at the NDNS data ahead of the hacknight if you like - the tools we provide on the night will hopefully make this a lot easier for you, and will link it up with GHGE estimates.)
+
+----
+
+On the night we will tell you 
+- the url of the code repository
+- the url of a merged csv file if you prefer to work with that (e.g. if you don’t have python) and have registered with NDNS above
+- the details of the competition, if you wish to take part in that.
+
+Each group will be invited to give a very short presentation at the end of the evening, so we can announce the winner of the competition and finish at 9pm. 
+
