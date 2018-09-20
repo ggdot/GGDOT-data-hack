@@ -1,5 +1,5 @@
 # liverpool-hacknight-20180612
-Code for Liverpool GGDOT Hacknight 12 June 2016
+Code for Manchester GGDOT Hacknight 20 September 2018
 
 Before the hacknight, please download the NDNS data - if you haven't done this yet then please read the README_PREHACK file.
 
