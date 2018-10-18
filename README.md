@@ -1,5 +1,5 @@
-# manchester-hacknight-20180612
-Code for Manchester GGDOT Hacknight 20 September 2018
+# durham-hacknight-20180612
+Code for Durham GGDOT Hacknight 18 October 2018
 
 Before the hacknight, please download the NDNS data - if you haven't done this yet then please read the README_PREHACK file.
 
