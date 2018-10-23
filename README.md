@@ -1,7 +1,6 @@
-# durham-hacknight-20180612
-Code for Durham GGDOT Hacknight 18 October 2018
+# Greenhouse Gas and Dietary choices Open-source Toolkit
 
-Before the hacknight, please download the NDNS data - if you haven't done this yet then please read the README_PREHACK file.
+To use this repository you first need to download the NDNS data (accepting their licences) - see the README_PREHACK file for information on how to do this. 
 
 If you have low system memory or otherwise want to avoid executing the computationally intensive first cell of the notebook that makes the combined csv files, then do the following (replacing "[path/to...]" with your NDNS data directory):
 
